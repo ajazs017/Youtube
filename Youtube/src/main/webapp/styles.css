@@ -1,0 +1,26 @@
+@charset "ISO-8859-1";
+.container {
+	border: 5px solid red;
+	padding: 60px 400px;
+	margin: 30px 100px;
+	background-image:url("https://img.olympicchannel.com/images/image/private/f_auto/t_s_pog_staticContent_hero_xl/primary/qgyr8vnrdn3lemt4tobb.png");
+	height: 400px;
+	width:400px;
+	z-index: -1;
+	
+}
+
+.heading{
+	
+	color: #b7ce31;
+	padding:10px 5px;
+}
+
+.data{
+	color: White;
+	
+}
+
+.box{
+	text-align: center;
+}
